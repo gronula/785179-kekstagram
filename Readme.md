@@ -1,4 +1,4 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Носиков](https://up.htmlacademy.ru/javascript/16/user/785179).
 * Наставник: [Дмитрий Шамрило](https://up.htmlacademy.ru/javascript/16/user/59460).
@@ -20,17 +20,17 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 
 Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275195-078bb816-0050-11e8-8708-89266d2fae5d.png">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275222-1d624452-0050-11e8-8aca-06d2832724ce.png">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275196-07baf78e-0050-11e8-9275-404a4b63efb1.png">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275223-1d7cf9fa-0050-11e8-829b-98ac3c9a4f8b.png">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
 Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275197-07d8e79e-0050-11e8-95c1-a30a433687d8.png">
+<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275224-1d97a7dc-0050-11e8-89f9-41c9a7b2ae9c.png">
 
 Клонировать репозиторий можно так:
 
@@ -48,5 +48,5 @@ git clone SSH-адрес_вашего_форка
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Профессиональный JavaScript](https://htmlacademy.ru/intensive/javascript)», уровень 1 от [HTML Academy](https://htmlacademy.ru).
 
-[travis-image]: https://travis-ci.com/htmlacademy-javascript/785179-keksobooking.svg?branch=master
-[travis-url]: https://travis-ci.com/htmlacademy-javascript/785179-keksobooking
+[travis-image]: https://travis-ci.com/htmlacademy-javascript/557545-kekstagram.svg?branch=master
+[travis-url]: https://travis-ci.com/htmlacademy-javascript/557545-kekstagram
