@@ -13,6 +13,7 @@ gulp.task('copy', function () {
     'css/**/*',
     'fonts/**/*',
     'img/**/*',
+    'photos/**/*',
     '*.ico',
   ], {base: './'})
   .pipe(gulp.dest('build'));
