@@ -1,21 +1,21 @@
 {
-  "name": "keksobooking",
+  "name": "kekstagram",
   "version": "15.0.0",
   "private": true,
   "description": "Личный проект «Кексобукинг» от HTML Academy",
   "repository": {
     "type": "git",
-    "url": "git@github.com:htmlacademy-javascript/785179-keksobooking.git"
+    "url": "git@github.com:gronula/785179-kekstagram.git"
   },
   "bugs": {
-    "url": "https://github.com/htmlacademy-javascript/785179-keksobooking/issues"
+    "url": "https://github.com/gronula/785179-kekstagram/issues"
   },
   "devDependencies": {
     "browser-sync": "2.26.3",
     "del": "3.0.0",
-    "eslint": "5.7.0",
+    "eslint": "5.11.1",
     "eslint-config-htmlacademy": "0.5.2",
-    "gulp": "4.0.x"
+    "gulp": "4.0.0"
   },
   "license": "MIT",
   "dependencies": {},
